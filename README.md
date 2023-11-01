@@ -25,7 +25,9 @@ Il peut créer un certificat autosigné avec ces clés et chiffrer des messages 
 5.Attaque par dictionnaire :
 
 L'option d'attaque par dictionnaire tente de décrypter un message chiffré en utilisant un dictionnaire de mots prédéfinis.
-Interface utilisateur :
+
+
+6.Interface utilisateur :
 
 Le programme offre un menu interactif avec des options pour chaque fonctionnalité.
 L'utilisateur peut naviguer dans les options en saisissant les lettres correspondantes.
