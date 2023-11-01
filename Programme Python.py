@@ -52,7 +52,7 @@ file1.write(mot_de_passe_utilisateur)
 file1.write("\n")
 file1.close()
 
-print("Your data has been saved in the 'enregistrement.txt' file.")
+print("Your data has been saved in the 'enregist.txt' file.")
 
 print("Login!")
 log = input("email: ")
@@ -304,5 +304,5 @@ else:
     file1.write(pwd)
     file1.write("\n")
     file1.close()
-    print("Your data has been saved in the 'enregistrement.txt' file.")
+    print("Your data has been saved in the 'enregist.txt' file.")
     
