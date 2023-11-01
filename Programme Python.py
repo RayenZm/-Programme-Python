@@ -96,6 +96,7 @@ for logins in file1:
                          hashed_word = hashlib.sha256(word.encode()).hexdigest()
                          if hashed_word == hashed_text:
                              print(f"Mot trouvé dans le dictionnaire : {word}")
+                               break
                          
                          else:
                               print("Aucun mot du dictionnaire ne correspond.")
